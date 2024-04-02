@@ -3,10 +3,10 @@
 - Седова Ольга - project
 - Митюкова Юлия - project
 - Куликов Александр - backend
-- Васенков Андрей - data analyst
+- Васенков Андрей - developer
 - Кауркина Светлана - data analyst
-- Клейман Григорий  - data analyst
-- Мамонова Екатерина  - data analyst
+- Клейман Григорий  - business analyst
+- Мамонова Екатерина  - business analyst
 - Маслов Алексей  - data analyst
-- Маркин Захар
-- Зудина Полина 
+- Маркин Захар - data analyst
+- Зудина Полина - data analyst
