@@ -2,11 +2,11 @@
 Какие роли у нас в команде:
 - Седова Ольга - project
 - Митюкова Юлия - project
-- Куликов Александр - backend
-- Васенков Андрей - developer
-- Кауркина Светлана - data analyst
+- Васенков Андрей - backend developer
+- Куликов Александр - backend developer
 - Клейман Григорий  - business analyst
 - Мамонова Екатерина  - business analyst
+- Кауркина Светлана - data analyst
 - Маслов Алексей  - data analyst
 - Маркин Захар - data analyst
 - Зудина Полина - data analyst
