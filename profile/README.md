@@ -8,6 +8,5 @@
 - Клейман Григорий  - business analyst [@Stargrab](https://github.com/Stargrab)
 - Мамонова Екатерина  - business analyst [@KaterrinaM](https://github.com/KaterrinaM)
 - Кауркина Светлана - data analyst [@SvetlanaEK](https://github.com/SvetlanaEK)
-- Маслов Алексей  - data analyst
 - Маркин Захар - data analyst [@ZekZag](https://github.com/ZekZag)
 - Зудина Полина - data analyst [@Polynchik](https://github.com/Polynchik)
