@@ -4,7 +4,7 @@
 - Митюкова Юлия - project [@YuliaMityukova](https://github.com/YuliaMityukova)
 - Лебедева Ксения - frontend developer [@ks2k23](https://github.com/ks2k23/)
 - Страхов Андрей - frontend developer [@Astra-chan-desu](https://github.com/ks2k23)
-- Владимирова Юлия - frontend developer [@VlJulia](https://github.com/)
+- Владимирова Юлия - frontend developer [@VlJulia](https://github.com/VlJulia)
 - Васенков Андрей - backend developer [@VasenkovAA](https://github.com/VasenkovAA)
 - Куликов Александр - backend developer [@arechesk](https://github.com/arechesk)
 - Клейман Григорий  - business analyst [@Stargrab](https://github.com/Stargrab)
